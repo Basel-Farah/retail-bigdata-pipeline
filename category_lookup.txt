@@ -1,0 +1,6 @@
+Electronics|ELEC|Technology & Gadgets|Alice Smith
+Home Appliances|HOME|Domestic Goods|Bob Jones
+Clothing|CLOT|Apparel & Fashion|Charlie Brown
+Books|BOOK|Media & Education|Diana Prince
+Beauty Products|BEAU|Personal Care|Evan Wright
+Sports|SPOR|Fitness & Outdoors|Fiona Gallagher
